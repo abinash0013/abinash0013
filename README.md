@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abinash0013.
-- 👀 I’m interested in web development and designing.
+- 👀 I’m proficient in web development and designing.
 - 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate on any React Js Project.
 - 📫 You may reach me on Linkedin.
