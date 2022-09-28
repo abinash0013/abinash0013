@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abinash0013.
 - 👀 I’m proficient in web development and designing.
-- 🌱 I’m currently learning React Js.
-- 💞️ I’m looking to collaborate on any React Js Project.
+- 🌱 I’m currently learning React Js / React Native.
+- 💞️ I’m looking to collaborate on any React Project.
 - 📫 You may reach me on Linkedin.
 - 🔗 www.linkedin.com/in/abinash-sonar-7a5363128
 
